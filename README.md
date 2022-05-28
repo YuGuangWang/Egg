@@ -1,6 +1,6 @@
 # Embedding Graphs on a Grassmann Manifold
 
-This repository is the official implementation of [Embedding Graphs on a Grassmann Manifold](submitted to ECML-PKDD 2021).
+This repository is the official implementation of [Embedding Graphs on a Grassmann Manifold, Neural Networks (2022)](https://www.sciencedirect.com/science/article/pii/S0893608022001733).
 
 ## Requirements
 
